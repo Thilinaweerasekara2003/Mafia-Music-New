@@ -2,7 +2,7 @@
   "name": "Mafia Music",
   "description": "Telegram bot + userbot for streaming audio in group calls.",
   "keywords": ["telegram", "python"],
-  "repository": "https://github.com/callsmusic/callsmusic",
+  "repository": "https://github.com/Thilinaweerasekara2003/Mafia-Music-New",
   "env": {
     "SESSION_NAME": {
       "description": "A Pyrogram session string.",
