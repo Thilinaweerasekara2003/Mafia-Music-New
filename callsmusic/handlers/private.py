@@ -24,10 +24,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        '🔈 Channel', url='https://t.me/hitecobotchanal',
+                        '🔈 Channel', url='https://t.me/Gangofmafiateem',
                     ),
                     InlineKeyboardButton(
-                        'Group 💬', url='https://t.me/HITecRobot',
+                        'Group 💬', url='https://t.me/Gangofmafiateem',
                     ),
                 ],
             ],
