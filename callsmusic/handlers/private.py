@@ -24,10 +24,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        '🔈 Channel', url='https://t.me/callsmusic',
+                        '🔈 Channel', url='https://t.me/hitecobotchanal',
                     ),
                     InlineKeyboardButton(
-                        'Group 💬', url='https://t.me/callsmusicchat',
+                        'Group 💬', url='https://t.me/HITecRobot',
                     ),
                 ],
             ],
