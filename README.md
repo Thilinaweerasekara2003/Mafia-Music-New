@@ -1,4 +1,4 @@
-# Calls Music — Telegram bot + userbot for streaming audio in group calls
+# Mafia Calls Music — Telegram bot + userbot for streaming audio in group calls
 
 ## ✍🏻 Requirements
 
